@@ -5,7 +5,7 @@
 - 💻 I’m currently swimming in the seas of html, css, js and react
 - 🌱 I have passion for creation. make ideas come true
 - 👯 I aim to create as a team and assume the complexity of things with pleasure
-- 🥅 2021 Goal: Keep my education moving
+- 🥅 2022 Goal: Master React! Oh yeah
 - ⚡ Fun fact: I'm the best of the worst soccer players you'll ever meet
 
 ### Connect with me:
